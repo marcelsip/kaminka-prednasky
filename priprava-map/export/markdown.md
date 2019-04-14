@@ -14,6 +14,8 @@ white - jednoduché, čitelné
 
 marcel@kocovnici.cz
 
+<img  src="./images/kaminka.jpg"/>
+
 ---
 
 ## Jaké mapy používáte ?
@@ -106,7 +108,7 @@ ukazovat na mapě Osiky
 pokud nesplňuje náležitosti, je to jenom obrázek, nicméně pro zjednodušení to nebudeme rozlišovat 
 -->
 
-obsah mapy - měřítko - legenda - severka, tiráž, ...
+obsah mapy - název - měřítko - legenda - severka, tiráž, ...
 
 ---
 
@@ -162,7 +164,7 @@ https://docs.qgis.org/2.14/en/docs/training_manual/forestry/map_georeferencing.h
 
 - ručně x grafický editor x specializovaný software
 - kde vzít data?
-    - získat existující, např. z OpenStreetMap 
+    - získat existující, např. stažením z OpenStreetMap 
     - odvozením z existujícího podkladu (jiná mapa, letecké snímky)
     - nasbírat vlastní (GPS, snímky z dronu, ...)
 
@@ -250,8 +252,9 @@ Stejně či lépe poslouží i model
     - [ArcGIS.com](https://www.arcgis.com)
     
 <!-- 
-google drive - vytvořit mapu a importovat do ní data z tabulky a zvolit sloupec s místem
-arcgis.com - ukázat natažení CSV do mapy vylety_vzorek.csv 
+ukázka vylety_vzorek.csv 
+google drive - vytvořit mapu a importovat do ní data z CSV a zvolit sloupec s místem
+arcgis.com - ukázat natažení CSV do mapy
 -->
 
 <!-- 
@@ -281,7 +284,7 @@ fset.sdf
 
 #### nemám žádná data - jak je vytvořit?
 
-- [Moje mapy](https://napoveda.seznam.cz/cz/mapy/moje-mapy-batuzek/moje-mapy/) na [Mapy.cz](https://mapy.cz)
+- [Moje mapy](https://mapy.cz/s/3qLq9) na [Mapy.cz](https://mapy.cz)
 - [Google My Maps](https://www.google.com/maps/d/) 
     - Pro sběr lze využít [Google Forms](https://forms.gle/Dx5rLz75ryhDjW1w7) a [výsledek převést do mapy](https://drive.google.com/open?id=1LxORSpijH_sTjvqI6iXrkd3f_3EAjdXR)
 - [ArcGIS.com](http://www.arcgis.com) - [mapové poznámky](http://arcg.is/0P8K4L)
@@ -289,7 +292,7 @@ fset.sdf
 <!-- 
 Ukázky
 Moje mapy - možnost uložení míst, tras
-Google formuláře - do formuláře dát pole s textem, z formulářesběr dat
+Google formuláře - do formuláře dát pole s textem, z formuláře sběr dat
 ArcGIS.com - digitalizace tábořiště 
 -->
 
@@ -302,8 +305,10 @@ ArcGIS.com - digitalizace tábořiště
 <!-- od špendlíků přes nákres trasy (hra) po skutečné mapování - v terénu, dronem, etc.  -->
 
 <!-- úkol
-- poslat mapu ČR dokola, každý nalepí nálepku
-- mezitím se zamyslet - co by se dalo mapovat s dětmi
+- společně vymyslet jaký jev zachytit na mapě špendlíkama
+- zjistit orientačně rozsah hodnot a rozdělit barvy špendlíků
+- poslat mapu ČR dokola, každý zapíchne špendlík odkud přijel a jaká je tam hodnota
+- zatímco mapa putuje, probíhá diskuze - co by se dalo mapovat s dětmi
  -->
 
 ---
